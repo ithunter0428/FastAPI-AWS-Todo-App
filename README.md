@@ -2,7 +2,7 @@
 > A Next.js to do list web app with FastAPI, AWS CDK, DynamoDB, Lambda Function
 
 # Screenshot
-![image](![](https://raw.githubusercontent.com/ithunter101/FastAPI-AWS-Todo-App/screenshots/1.png))
+![](https://raw.githubusercontent.com/ithunter101/FastAPI-AWS-Todo-App/main/screenshots/1.png)
 
 # Self note for future reference
 
